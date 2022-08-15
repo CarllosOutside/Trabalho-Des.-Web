@@ -1,6 +1,8 @@
 # Trabalho-Des.-Web
 
-Alunos:
+## Alunos:
 Pedro Afonso Vander da Silva
+
 Pedro Henrique Cebuliski
+
 Gustavo Marenda de Lima
